@@ -14,12 +14,12 @@
 
 部分截图
 
- ![image-20240402161831435](D:\code\mycode\itemSet\ItemSet\10001.  学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus\README.assets\image-20240402161831435.png)
+ ![image-20240402161831435](README.assets/image-20240402161831435.png)
 
-![image-20240402161922121](D:\code\mycode\itemSet\ItemSet\10001.  学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus\README.assets\image-20240402161922121.png)
+![image-20240402161922121](README.assets/image-20240402161922121.png)
 
-![image-20240402161937657](D:\code\mycode\itemSet\ItemSet\10001.  学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus\README.assets\image-20240402161937657.png)
+![image-20240402161937657](README.assets/image-20240402161937657.png)
 
-![image-20240402161950410](D:\code\mycode\itemSet\ItemSet\10001.  学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus\README.assets\image-20240402161950410.png)
+![image-20240402161950410](README.assets/image-20240402161950410.png)
 
-![image-20240402162003136](D:\code\mycode\itemSet\ItemSet\10001.  学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus\README.assets\image-20240402162003136.png)
+![image-20240402162003136](README.assets/image-20240402162003136.png)

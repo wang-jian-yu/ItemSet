@@ -36,9 +36,4 @@
 
 
 
-
-
-- [X] Icons
-- [ ] Maps
-
-[MIT](https://github.com/zykarsolutions/React-Material-UI-Admin/blob/main/LICENSE.md).
+ 

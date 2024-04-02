@@ -4,7 +4,7 @@
 
 
 
-**10001.  学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus**
+**10001、**学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-
+> 如看到有合适的项目，需要sql文件请添加 Q: 1442243445 获取
 
 
 

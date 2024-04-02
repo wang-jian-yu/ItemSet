@@ -4,7 +4,7 @@
 
 
 
-**10001、**学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus
+10001.  **学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus**
 
 
 

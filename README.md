@@ -4,11 +4,19 @@
 
 
 
-[10001.  **学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus**](Set/10001.%20%20学生公寓管理系统%20---%20SpringBoot%20+%20Vue%20+%20Mysql%20+%20element-plus/README.md)
+##### Java
 
-[10002.  **图书管理系统     --- Express + Vue + Mysql + element-plus**](Set/10002.%20%20%20图书管理系统%20---%20Vue-Express-Mysql/README.md)
+[10001.  **学生公寓管理系统 --- SpringBoot + Vue + Mysql + element-plus**](./Java/10001.%20%20学生公寓管理系统%20---%20SpringBoot%20+%20Vue%20+%20Mysql%20+%20element-plus/README.md)
+
+[10002.  **10002. 物业管理系统----JAVA Servlet +Vue +Mysql**](./Java/10002.%20物业管理系统----JAVA%20Servlet%20+Vue%20+MYSQL/vue/README.md)
 
 
+
+##### NodeJs
+
+[20001.  **图书管理系统     --- Express + Vue + Mysql + element-plus**](./NodeJS/20001.%20%20%20图书管理系统%20---%20Vue-Express-Mysql/README.md)
+
+##### Python
 
 
 

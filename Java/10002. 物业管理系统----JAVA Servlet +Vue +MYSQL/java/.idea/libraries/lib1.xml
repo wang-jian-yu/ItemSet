@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/backend_vue_war_exploded/WEB-INF/lib/fastjson-1.2.75.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/backend_vue_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/backend_vue_war_exploded/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/backend_vue_war_exploded/WEB-INF/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/backend_vue_war_exploded/WEB-INF/lib/tomcat-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

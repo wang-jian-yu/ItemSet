@@ -10,6 +10,7 @@
 | 10002 | 物业管理系统     | Servlet 、Vue 、Mysql                      | [🔗](./Java/10002.%20物业管理系统/vue/README.md)    |
 | 10003 | 选课系统         | SpringBoot、MySQL、Thymeleaf、Redis、Druid | [🔗](./Java/10003.%20选课系统/README.md)            |
 | 10004 | 音乐推荐系统     | SSM、MySQL5.7、Maven、JSP                  | [🔗](./Java/10004.%20音乐推荐系统/README.md)        |
+| 10005 | 博客系统         | JSP+Servlet+JDBC+Mysql                     | [🔗](./Java/10005.%20个人博客系统/README.MD)        |
 
 ##### NodeJs
 

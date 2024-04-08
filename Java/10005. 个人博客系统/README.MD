@@ -53,14 +53,14 @@ tomcat 版本：8.5.34（个人测试使用）
 
 ## 项目截图
 
-![image-20240408下午85354172](/Users/jose/personal/Code/back/ItemSet/Java/10005. 个人博客系统/README.assets/image-20240408下午85354172.png)
+![image-20240408下午85354172](./README.assets/85354172.png)
 
-![image-20240408下午85832612](/Users/jose/personal/Code/back/ItemSet/Java/10005. 个人博客系统/README.assets/image-20240408下午85832612.png)
+![image-20240408下午85832612](./README.assets/85832612.png)
 
-![image-20240408下午85848377](/Users/jose/personal/Code/back/ItemSet/Java/10005. 个人博客系统/README.assets/image-20240408下午85848377.png)
+![image-20240408下午85848377](./README.assets/85848377.png)
 
-![image-20240408下午85907793](/Users/jose/personal/Code/back/ItemSet/Java/10005. 个人博客系统/README.assets/image-20240408下午85907793.png)
+![image-20240408下午85907793](./README.assets/85907793.png)
 
-![image-20240408下午85921218](/Users/jose/personal/Code/back/ItemSet/Java/10005. 个人博客系统/README.assets/image-20240408下午85921218.png)
+![image-20240408下午85921218](./README.assets/85921218.png)
 
-![image-20240408下午85933768](/Users/jose/personal/Code/back/ItemSet/Java/10005. 个人博客系统/README.assets/image-20240408下午85933768.png)
+![image-20240408下午85933768](./README.assets/85933768.png)

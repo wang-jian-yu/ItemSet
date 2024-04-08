@@ -6,20 +6,20 @@
 
 其中，功能模块图如下:
 
-![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Hybrid-Music-Recommender-System/functionModule.png)
+![image-20240408下午91050570](README.assets/image-20240408下午91050570.png)
 
 系统角色用例图如下:
 
-![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Hybrid-Music-Recommender-System/roleCase.png)
+![](README.assets/roleCase.png)
 
 一些界面如下:
 
-![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Hybrid-Music-Recommender-System/Selection_001.png)
+![](README.assets/Selection_001.png)
 
-![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Hybrid-Music-Recommender-System/Selection_002.png)
+![](README.assets/Selection_002.png)
 
-![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Hybrid-Music-Recommender-System/Selection_003.png)
+![](README.assets/Selection_003.png)
 
-![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Hybrid-Music-Recommender-System/Selection_004.png)
+![](README.assets/Selection_004.png)
 
-![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Hybrid-Music-Recommender-System/Selection_005.png)
+![](README.assets/Selection_005.png)
